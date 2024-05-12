@@ -1,0 +1,21 @@
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\bin\Debug\ChatServer.exe.config
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\bin\Debug\ChatServer.exe
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\bin\Debug\ChatServer.pdb
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.Form1.resources
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.exe
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatServer\obj\Debug\ChatServer.pdb
+E:\iti\c#\day14_network_prog\Day11\ChatServer\bin\Debug\ChatServer.exe.config
+E:\iti\c#\day14_network_prog\Day11\ChatServer\bin\Debug\ChatServer.exe
+E:\iti\c#\day14_network_prog\Day11\ChatServer\bin\Debug\ChatServer.pdb
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.Form1.resources
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.exe
+E:\iti\c#\day14_network_prog\Day11\ChatServer\obj\Debug\ChatServer.pdb

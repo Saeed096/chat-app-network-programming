@@ -1,0 +1,21 @@
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\bin\Debug\ChatClient.exe
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\bin\Debug\ChatClient.pdb
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.Form1.resources
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.exe
+D:\Work\Instructor\Entity Framework\Intake44\PWD\Day11\ChatClient\obj\Debug\ChatClient.pdb
+E:\iti\c#\day14_network_prog\Day11\ChatClient\bin\Debug\ChatClient.exe.config
+E:\iti\c#\day14_network_prog\Day11\ChatClient\bin\Debug\ChatClient.exe
+E:\iti\c#\day14_network_prog\Day11\ChatClient\bin\Debug\ChatClient.pdb
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.Form1.resources
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.exe
+E:\iti\c#\day14_network_prog\Day11\ChatClient\obj\Debug\ChatClient.pdb
